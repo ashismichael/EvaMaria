@@ -33,7 +33,7 @@
          "FORCES_SUB": {
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
             "value": "",
-            "required": True
+            "required": true
 
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
