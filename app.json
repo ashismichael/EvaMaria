@@ -30,10 +30,6 @@
             "description": "Get this value from https://my.telegram.org",
             "required": true
         },
-         "FORCES_SUB": {
-            "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
-            "value": "",
-            "required": true
 
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
